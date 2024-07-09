@@ -1,10 +1,3 @@
-## Semáforo Simples
-
-### Esquema de ligação
-![Esquema de ligação](Esquema.png)
-
-### Código Fonte
-```cpp
 #include <Arduino.h>
 
 // Define as portas dos LEDs no ESP32
@@ -77,4 +70,3 @@ void loop(){
 
   delay(2000); // Espera 2 segundos
 }
-```
